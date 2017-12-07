@@ -90,11 +90,12 @@ color: black;
 
 /***start of footer***/
 .footer{
-
+width: 100%;
+height: 75px;
 }
 /***end of footer***/
 
-/***helper classes***/
+/***helper c;lasses***/
 .left{
   float: left;
 }
