@@ -39,6 +39,7 @@ z-index: 1;
 
 .nav-item{
   margin-right: 15px;
+  margin-top: 10px;
   list-style: none;
 }
 
@@ -86,3 +87,22 @@ color: black;
   background-color: #ffe6cc
 }
 /*** end of intro paragraph***/
+
+/***start of footer***/
+.footer{
+
+}
+/***end of footer***/
+
+/***helper classes***/
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.center{
+  text-align: center;
+}
