@@ -1,0 +1,88 @@
+body{
+margin: 0;
+background-color: #cce6ff
+
+}
+/****start of navigation css****/
+.logo{
+height: 100%;
+float: left;
+}
+
+.nav-container{
+width: 100%;
+background-color: inherit
+}
+
+.nav-bar{
+height: 75px;
+text-align: center;
+position: Fixed;
+top: 0;
+left: 0;
+right: 0;
+z-index: 1;
+}
+
+.nav-list {
+  float: right;
+  list-syle: none;
+  visibility: hidden;
+  width: 60px;
+  position: absolute;
+  top: -70px;
+  opacity: 0;
+  margin-top: 70px;
+  transition: all .24s;
+  background: #cce6ff;
+}
+
+.nav-item{
+  margin-right: 15px;
+  list-style: none;
+}
+
+.nav-button{
+text-decoration: none;
+color: black;
+}
+
+.dropdown-box{
+    height: 100%;
+    width: 100px;
+    float: right;
+    text-align: center;
+}
+
+.dropdown-box:hover p {
+ display: none;
+}
+
+.dropdown-box:hover .nav-list{
+  visibility: visible;
+  opacity: 1;
+  top: -35px;
+}
+
+
+/****end of navigation css****/
+
+/***start of hero image***/
+.hero{
+  margin-top: 75px;
+  display: block;
+  margin: auto;
+}
+/***end of hero image***/
+/***start of intro paragraph***/
+.headline{
+  text-align: center;
+}
+
+.text-box{
+  border: 1px 000000;
+  text-indent: 50px;
+  margin: 120px;
+  background-color: #ffe6cc
+}
+/*** end of intro paragraph***/
