@@ -63,3 +63,13 @@
   width: 700px;
   height: 700px;
 }
+
+.margin{
+  margin-right: 20%;
+  margin-left: 20%;
+  text-indent: 50px;
+}
+
+.indent{
+  text-indent: 50px;
+}

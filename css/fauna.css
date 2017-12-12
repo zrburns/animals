@@ -4,14 +4,43 @@ width: 45%;
 margin-left: 5%;
 }
 
-.type{
 
+.c-pic{
+  border-radius: 50%;
+  height: 40%;
+  width: 18%;
+  float: right;
+  position: relative;
+  right: 15%;
 }
 
-.section-title{
-
+  .r-pic{
+    border-radius: 50%;
+    height: 40%;
+    width: 18%;
+    float: right;
+    position: relative;
+    right: 15%;
 }
 
+
+.s-pic{
+  border-radius: 50%;
+  height: 40%;
+  width: 18%;
+  float: right;
+  position: relative;
+  right: 15%;
+}
+
+.fa-title{
+  margin-top: 5%;
+}
+
+.audio{
+  display: controls;
+}
+/****
 .r-pic{
   border-radius: 50%;
   height: 40%;
@@ -44,7 +73,5 @@ margin-left: 5%;
   box-shadow: 1px 2px 2px;
   left: 34%;
 }
-
-.fa-title{
-  margin-top: 5%;
 }
+****/
