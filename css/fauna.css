@@ -1,0 +1,22 @@
+.animal-box{
+margin-top: 5%;
+width: 45%;
+margin-left: 5%;
+}
+
+.type{
+
+}
+
+.section-title{
+
+}
+
+.r-pic{
+  border-radius: 50%;
+  height: 40%;
+  width: 18%;
+  float: right;
+  position: relative;
+  margin-right: 16%;
+}

@@ -5,14 +5,14 @@
   border: 3px solid black;
   transform: rotate(-45deg);
   margin-top: 10%;
-  margin-left: 39%;
+  /**margin-left: 39%;**/
   background-color: #00eaff;
   z-index: 1
 }
 
 .tear-2{
-  margin-left: 36%;
-  margin-top: 2%;
+  margin-left: -3%;
+  margin-top: 5%;
   width: 250px;
   height: 250px;
   border-radius: 80% 0 55% 50% / 55% 0 80% 50%;
@@ -28,8 +28,8 @@
   border-radius: 80% 0 55% 50% / 55% 0 80% 50%;
   border: 3px solid black;
   transform: rotate(-45deg);
-  margin-top: -25%;
-  margin-left: 48%;
+  margin-top: -55%;
+  margin-left: 23%;
   background-color: #00eaff;
   z-index: -1
 }
@@ -54,7 +54,12 @@
   height: 315;
   margin-top: 12%;
   margin-left: 30%;
-  frameborder: 0;
-  gesture: media;
-  allow: encrypted-media;
+
+}
+
+.tear-container{
+  position: relative;
+  margin-left: 35%;
+  width: 700px;
+  height: 700px;
 }

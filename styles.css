@@ -94,7 +94,7 @@ color: black;
   background-color: #ffe6cc;
   padding: 20px;
   z-index: -1;
-  box-shadow: 3px 4px;
+  box-shadow: 1px 2px;
 }
 
 .box-2{
@@ -116,6 +116,7 @@ height: 75px;
 font-size: 12px;
 clear: both;
 margin-top: 6%;
+background-color: #ffe6cc;
 }
 /***end of footer***/
 
