@@ -1,8 +1,75 @@
-.shape{
-  width: 200px;
-  height: 200px;
+.tear-1{
+  width: 250px;
+  height: 250px;
+  border-radius: 80% 0 55% 50% / 55% 0 80% 50%;
+  border: 3px solid black;
+  transform: rotate(-45deg);
+  margin-top: 10%;
+  /**margin-left: 39%;**/
   background-color: #00eaff;
-  border-radius: 50%
-  border-top-right-radius: 0;
-  transform: rotate(-45);
+  z-index: 1
+}
+
+.tear-2{
+  margin-left: -3%;
+  margin-top: 5%;
+  width: 250px;
+  height: 250px;
+  border-radius: 80% 0 55% 50% / 55% 0 80% 50%;
+  border: 3px solid black;
+  transform: rotate(-45deg);
+  background-color: #00eaff;
+  z-index: 2;
+}
+
+.tear-3{
+  width: 250px;
+  height: 250px;
+  border-radius: 80% 0 55% 50% / 55% 0 80% 50%;
+  border: 3px solid black;
+  transform: rotate(-45deg);
+  margin-top: -55%;
+  margin-left: 23%;
+  background-color: #00eaff;
+  z-index: -1
+}
+
+.water-t{
+  clear: both;
+  margin-top: 10%;
+  text-align: center;
+  font-size: 54;
+}
+
+.text-background-w{
+  background-color: #ffe6cc;
+  padding: 20px;
+  z-index: -1;
+  box-shadow: 3px 4px;
+  margin-top: 10%;
+}
+
+.video-m{
+  width: 560;
+  height: 315;
+  margin-top: 12%;
+  margin-left: 30%;
+
+}
+
+.tear-container{
+  position: relative;
+  margin-left: 35%;
+  width: 700px;
+  height: 700px;
+}
+
+.margin{
+  margin-right: 20%;
+  margin-left: 20%;
+  text-indent: 50px;
+}
+
+.indent{
+  text-indent: 50px;
 }
