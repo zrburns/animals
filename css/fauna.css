@@ -1,0 +1,42 @@
+.animal-box{
+margin-top: 5%;
+width: 45%;
+margin-left: 5%;
+}
+
+
+.c-pic{
+  border-radius: 50%;
+  height: 40%;
+  width: 18%;
+  float: right;
+  position: relative;
+  right: 15%;
+}
+
+  .r-pic{
+    border-radius: 50%;
+    height: 40%;
+    width: 18%;
+    float: right;
+    position: relative;
+    right: 15%;
+}
+
+
+.s-pic{
+  border-radius: 50%;
+  height: 40%;
+  width: 18%;
+  float: right;
+  position: relative;
+  right: 15%;
+}
+
+.fa-title{
+  margin-top: 5%;
+}
+
+.audio{
+  display: controls;
+}

@@ -1,0 +1,46 @@
+.plant-box{
+margin-top: 5%;
+width: 45%;
+margin-left: 5%;
+}
+
+
+.p-pic{
+  border-radius: 50%;
+  height: 40%;
+  width: 18%;
+  float: right;
+  position: relative;
+  right: 15%;
+  top: 3%;
+  clear:both;
+}
+
+  .r-pic{
+    border-radius: 50%;
+    height: 40%;
+    width: 18%;
+    float: right;
+    position: relative;
+    right: 15%;
+    clear:both;
+}
+
+
+.s-pic{
+  border-radius: 50%;
+  height: 40%;
+  width: 18%;
+  float: right;
+  position: relative;
+  right: 15%;
+  clear: both;
+}
+
+.fa-title{
+  margin-top: 5%;
+}
+
+.audio{
+  display: controls;
+}
